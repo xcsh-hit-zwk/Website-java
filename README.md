@@ -1,2 +1,2 @@
 # Website-java
-version 0.1 for websit, use java
+version 0.1 for website, use java
